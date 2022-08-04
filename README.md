@@ -1,5 +1,5 @@
 # SQL_Projects
-This file contains some queries for student performane in exams 
+in StudentPerformance.sql This file contains some queries for student performane in exams 
 I tried to calculate these: 
 -- calculate the math score average, number of each gender, just if the student got more than 70 degree
 -- is the parental level of education affect the student's performance?
